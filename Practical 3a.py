@@ -1,4 +1,3 @@
-#Vishrut shah SYCS-4011
 from sys import maxsize 
 
 
